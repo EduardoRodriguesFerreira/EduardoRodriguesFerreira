@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Eu sou EduardoRF:
 Estou fazendo faculdade de análise e desenvolvimento de sistemas.<br>Procuro estágio.<br>Tenho conhecimento em HTML5, CSS3 JAVASCRIPT, C#.
 
 
