@@ -2,7 +2,7 @@
 
 # 💫 Eu sou EduardoRF:
 
-Procuro Estágio<br>Faço faculdade de Análise e Desenvolvimento de Sistemas 
+Atualmente trabalhando como Programador Junior, mas aberto a Vagas<br>Faço faculdade de Análise e Desenvolvimento de Sistemas 
 
 
 ## 🌐 Socials:
