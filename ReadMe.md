@@ -2,7 +2,7 @@
 
 # 💫 Eu sou EduardoRF:
 
-Atualmente trabalhando como Programador Junior, mas aberto a Vagas<br>Faço faculdade de Análise e Desenvolvimento de Sistemas 
+Trabalhei como Programador Junior, suporte de TI e analista de dados, aberto a Vagas<br>Faço faculdade de Análise e Desenvolvimento de Sistemas termino este ano de 2025
 
 
 ## 🌐 Socials:
