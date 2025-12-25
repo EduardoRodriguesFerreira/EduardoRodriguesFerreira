@@ -2,7 +2,13 @@
 
 # 💫 Eu sou EduardoRF:
 
-Trabalhei como Programador Junior, suporte de TI e analista de dados, aberto a Vagas<br>Faço faculdade de Análise e Desenvolvimento de Sistemas termino este ano de 2025
+Sou Analista de Dados e Desenvolvedor Full Stack, atuando com soluções ponta a ponta: coleta/integração de dados, APIs, banco de dados e dashboards, além de sistemas web com área administrativa (login, permissões, cadastros e relatórios).
+
+Principais entregas:
+• Dashboards e indicadores (Power BI)
+• APIs e automações (Python)
+• Modelagem/consultas SQL e ETL
+• Sistemas administrativos e portais internos
 
 
 ## 🌐 Socials:
