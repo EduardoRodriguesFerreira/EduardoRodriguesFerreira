@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/EMAIL-0B1730?style=for-the-badge&logo=gmail&logoColor=70A5FF" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=EduardoRodriguesFerreira&style=flat-square&color=3155A6&label=PROFILE+VIEWS" />
 
 </div>
 
