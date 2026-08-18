@@ -1,0 +1,79 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#0A1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="200" y1="60" x2="1010" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5BE7FF"/>
+      <stop offset="0.48" stop-color="#5D8CFF"/>
+      <stop offset="1" stop-color="#8D6BFF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#5BE7FF" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#5BE7FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="26"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#89A8D8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="360" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+
+    <circle cx="980" cy="86" r="180" fill="url(#glow)" filter="url(#blur)">
+      <animate attributeName="cx" values="980;920;980" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="86;130;86" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="290" r="120" fill="#8D6BFF" fill-opacity=".10" filter="url(#blur)">
+      <animate attributeName="r" values="110;145;110" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- abstract data paths -->
+    <g opacity=".82">
+      <path d="M790 92 C870 48 905 115 977 86 C1044 58 1067 120 1146 93" stroke="url(#accent)" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M770 182 C850 126 911 210 980 159 C1056 103 1082 199 1160 159" stroke="#6F8EFF" stroke-opacity=".55" stroke-width="1.6"/>
+      <path d="M808 267 C870 220 928 296 994 247 C1055 202 1099 276 1153 239" stroke="#5BE7FF" stroke-opacity=".5" stroke-width="1.6"/>
+      <circle cx="790" cy="92" r="5" fill="#5BE7FF"/>
+      <circle cx="977" cy="86" r="5" fill="#8DA2FF"/>
+      <circle cx="1146" cy="93" r="5" fill="#8D6BFF"/>
+      <circle cx="770" cy="182" r="4" fill="#5BE7FF"/>
+      <circle cx="980" cy="159" r="4" fill="#6F8EFF"/>
+      <circle cx="1160" cy="159" r="4" fill="#8D6BFF"/>
+      <circle cx="808" cy="267" r="4" fill="#5BE7FF"/>
+      <circle cx="994" cy="247" r="4" fill="#6F8EFF"/>
+      <circle cx="1153" cy="239" r="4" fill="#8D6BFF"/>
+    </g>
+
+    <!-- moving pulse -->
+    <circle r="7" fill="#FFFFFF">
+      <animateMotion dur="5.5s" repeatCount="indefinite" path="M790 92 C870 48 905 115 977 86 C1044 58 1067 120 1146 93"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- textual identity -->
+    <text x="74" y="86" fill="#7F9ABD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3.8">DATA • SOFTWARE • AUTOMATION</text>
+    <text x="72" y="151" fill="#F7FAFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Eduardo Rodrigues</text>
+    <text x="72" y="205" fill="#F7FAFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Ferreira</text>
+
+    <rect x="72" y="234" width="530" height="1" fill="url(#accent)" opacity=".85"/>
+
+    <text x="72" y="272" fill="#B9C7DB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">
+      Data Analyst  ·  Full Stack Developer  ·  BI  ·  APIs  ·  Cloud
+    </text>
+    <text x="72" y="306" fill="#7F9ABD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">
+      Turning data and processes into clear, scalable digital products.
+    </text>
+
+    <rect x="1022" y="304" width="96" height="28" rx="14" fill="#0B1730" stroke="#6F8EFF" stroke-opacity=".65"/>
+    <circle cx="1042" cy="318" r="4" fill="#5BE7FF">
+      <animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1055" y="323" fill="#C8D6E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">AVAILABLE</text>
+  </g>
+</svg>
