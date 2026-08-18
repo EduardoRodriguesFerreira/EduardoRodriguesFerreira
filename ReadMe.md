@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Eduardo Rodrigues Ferreira — Data Analyst and Full Stack Developer"/>
+<img src="./assets/hero.svg" width="100%" alt="Eduardo Rodrigues Ferreira"/>
 
 <br>
 
@@ -35,27 +35,7 @@ Minha experiência combina **SQL, ETL, Power BI, Python e desenvolvimento Full S
 
 ## TECHNOLOGY SYSTEM
 
-<div align="center">
-
-### DATA / ANALYTICS
-
-<img src="https://skillicons.dev/icons?i=python,mysql,azure&theme=dark" height="48" alt="Data technologies"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-0B1730?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/DAX-0B1730?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20Query-0B1730?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL%20Server-0B1730?style=flat-square&logo=microsoftsqlserver&logoColor=FF6B6B"/>
-<img src="https://img.shields.io/badge/ETL-0B1730?style=flat-square"/>
-
-<br><br>
-
-### APPLICATION / AUTOMATION
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,js,html,css,dotnet,git&theme=dark" height="48" alt="Application technologies"/>
-
-</div>
+<img src="./assets/techstack.svg" width="100%" alt="Technology stack"/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -64,56 +44,106 @@ Minha experiência combina **SQL, ETL, Power BI, Python e desenvolvimento Full S
 <table>
 <tr>
 <td width="24%"><b>2025 — CURRENT</b></td>
-<td><b>ACFS Consultores</b><br>Data Analyst / Full Stack<br><sub>Web solutions, dashboards, automations, deployment, domains and cloud publication.</sub></td>
+<td><b>ACFS Consultores</b><br>Data Analyst / Full Stack<br><sub>Soluções web, dashboards, automações, implantação, domínio/DNS e publicação.</sub></td>
 </tr>
 <tr>
 <td><b>2024 — 2025</b></td>
-<td><b>Açovisa</b><br>Data Analyst<br><sub>SQL, Power BI, Python, Power Query, DAX, Azure Data Factory and C# table migration support.</sub></td>
+<td><b>Açovisa</b><br>Data Analyst<br><sub>SQL, Power BI, Python, Power Query, DAX, Azure Data Factory e apoio em migração de tabelas com C#.</sub></td>
 </tr>
 <tr>
 <td><b>2023 — 2024</b></td>
-<td><b>WFLOW INVEST</b><br>Junior Developer<br><sub>Python and Power Automate automations with Power BI support.</sub></td>
+<td><b>WFLOW INVEST</b><br>Junior Developer<br><sub>Automações com Python e Power Automate; apoio ao Power BI.</sub></td>
 </tr>
 <tr>
 <td><b>2023</b></td>
-<td><b>Fortuna PABX em nuvem</b><br>IT Support Intern<br><sub>CRM integration, customer training and technical support.</sub></td>
+<td><b>Fortuna PABX em nuvem</b><br>IT Support Intern<br><sub>Integração com CRM, treinamento e suporte técnico a clientes.</sub></td>
 </tr>
 </table>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## SELECTED WORK
+## SELECTED PROJECTS
 
-<div align="center">
+<!--
+COMO EDITAR ESTA ÁREA:
+1. Troque PROJECT 01/02/03/04 pelo nome do projeto.
+2. Troque a descrição.
+3. Troque as tecnologias.
+4. Troque LINK-DO-REPOSITORIO pela URL do repositório.
+Você não precisa alterar o restante do README.
+-->
 
-<a href="https://github.com/EduardoRodriguesFerreira/Portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoRodriguesFerreira&repo=Portfolio&theme=transparent&hide_border=true&title_color=70A5FF&text_color=9EB0C7&icon_color=8D6BFF" alt="Portfolio repository"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### PROJECT 01
+**DATA / BI**
 
-> Este espaço deve concentrar projetos que comprovem sua atuação atual: **dashboards, APIs, automações, SQL/ETL e sistemas Full Stack**.
+Descrição curta do problema resolvido, da solução construída e do impacto do projeto.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+`Power BI` `SQL` `DAX` `ETL`
 
-## GITHUB SIGNAL
+[VIEW REPOSITORY](LINK-DO-REPOSITORIO)
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoRodriguesFerreira&show_icons=true&hide_border=true&bg_color=00000000&title_color=70A5FF&text_color=9EB0C7&icon_color=8D6BFF&rank_icon=github" alt="GitHub statistics"/>
+### PROJECT 02
+**FULL STACK**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRodriguesFerreira&layout=compact&hide_border=true&bg_color=00000000&title_color=70A5FF&text_color=9EB0C7" alt="Most used languages"/>
+Descrição curta do sistema, principais funcionalidades e decisões técnicas relevantes.
 
-</div>
+`Next.js` `React` `API` `SQL`
+
+[VIEW REPOSITORY](LINK-DO-REPOSITORIO)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### PROJECT 03
+**AUTOMATION / API**
+
+Descrição curta da automação, integração ou API desenvolvida e do processo otimizado.
+
+`Python` `FastAPI` `REST` `Automation`
+
+[VIEW REPOSITORY](LINK-DO-REPOSITORIO)
+
+</td>
+<td width="50%" valign="top">
+
+### PROJECT 04
+**CLOUD / DATA**
+
+Descrição curta da solução em cloud, pipeline ou integração de dados.
+
+`Azure` `Data Factory` `SQL` `ETL`
+
+[VIEW REPOSITORY](LINK-DO-REPOSITORIO)
+
+</td>
+</tr>
+</table>
+
+> **Dica:** deixe aqui apenas seus 3–4 projetos mais fortes. O restante pode continuar na aba Repositories.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## EDUCATION
 
 **Analysis and Systems Development**  
-Centro Universitário ENIAC — 2023–2025
+Centro Universitário ENIAC — **2023–2025**
 
 <br>
+
+**Courses & Certifications**  
+Power BI · DAX · JavaScript · HTML/CSS · Streamlit
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## CONTACT
 
@@ -122,7 +152,7 @@ Centro Universitário ENIAC — 2023–2025
 ### Building with data, automation and software.
 
 <a href="https://www.linkedin.com/in/eduardo-rodrigues-03213b1b7/">
-  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-15233A?style=for-the-badge&logo=linkedin&logoColor=70A5FF" alt="Start a conversation on LinkedIn"/>
+  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-15233A?style=for-the-badge&logo=linkedin&logoColor=70A5FF" alt="LinkedIn"/>
 </a>
 
 </div>
